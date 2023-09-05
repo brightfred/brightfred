@@ -4,6 +4,7 @@
 - 🍁 I am from Quebec , Canada
 - 🗣️ I speak french and english
 - 🌱 I’m currently learning HTML , CSS , JavaScript and PHP
+- 🎒 Student in Information technology at NMIT , New-Zealand
 - 📫 How to reach me : Frederick-Laroche@live.nmit.ac.nz
 
 <!---
