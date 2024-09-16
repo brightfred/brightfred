@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @brightfred
-- 👀 I’m interested in Ux/Ui , Front End and Data Base
+- 👀 I’m interested in Ux/Ui and Full stack web application development
 - 🏠 I am living in Nelson  ,New Zealand.
 - 🍁 I am from Quebec , Canada
 - 🗣️ I speak french and english
-- 🌱 I’m currently learning HTML , CSS , JavaScript and PHP
+- 🌱 I’m currently learning HTML , CSS , JavaScript (Vue and React) , C# and Python.
 - 🎒 Student in Information technology at NMIT , New-Zealand
 - 📫 How to reach me : Frederick-Laroche@live.nmit.ac.nz
 
