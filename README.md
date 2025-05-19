@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brightfred
-- 👀 I’m interested in Ux/Ui , Full stack web application development and Data Management
+- 👀 I’m interested in Ux/Ui , Full stack web application development and Data Management.
 - 🏠 I am living in Nelson  ,New Zealand.
 - 🍁 I am from Quebec , Canada
 - 🗣️ I speak french and english
